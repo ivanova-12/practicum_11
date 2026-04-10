@@ -22,3 +22,4 @@ sorted_text_end = sorted(sorted_text.items(), key=lambda item: item[1], reverse=
 
 for key, value in sorted_text_end:
     print(key)
+
