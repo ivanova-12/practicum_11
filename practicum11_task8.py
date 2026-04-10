@@ -10,5 +10,3 @@ def new_str(snt:str) -> str:
 if __name__ == '__main__':
     print(new_str(input()))
 
-
-
