@@ -13,6 +13,3 @@ if num != 0:
 
 print(sorted(divisors))
 
-
-
-
