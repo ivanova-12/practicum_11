@@ -12,12 +12,3 @@ if operation[0] == 'R':
 else:
     print(lst[real_operation:] + lst[:real_operation])
 
-
-
-
-
-
-
-
-
-
