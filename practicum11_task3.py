@@ -7,6 +7,3 @@ for word in input().split():
 
 print(only_words)
 
-
-
-
