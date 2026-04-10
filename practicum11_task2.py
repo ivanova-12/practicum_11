@@ -4,4 +4,3 @@ new_list_of_nums.remove(3)
 
 print(new_list_of_nums)
 
-
