@@ -10,6 +10,3 @@ for i in range(len(all_nums)):
 
 print(sum(even), sum(odd))
 
-
-
-
