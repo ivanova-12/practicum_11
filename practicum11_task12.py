@@ -55,10 +55,3 @@ if __name__ == '__main__':
     print(real_count_leaky_letters(snt), count_no_leaky_letters(snt))
     print(words_with_leaky_letters(snt))
 
-
-
-
-
-
-
-
